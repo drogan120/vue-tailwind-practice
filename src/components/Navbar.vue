@@ -1,5 +1,5 @@
 <template>
-    <nav class="bg-blue-400 text-gray-100 px-6 py-4">
+    <nav class="bg-blue-400 text-gray-100 px-6 py-4 border-b">
         <div class="flex justify-between mb-3">
             <a href="/" class="text-lg font-medium">Drogan120</a>
             <button>

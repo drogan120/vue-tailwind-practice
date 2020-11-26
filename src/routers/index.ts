@@ -15,7 +15,7 @@ const routes: Array<RouteRecordRaw> = [
   {
     path: '/tweeter',
     name: 'Tweeter',
-    component: () => import('../views/Tweeter.vue'),
+    component: () => import('../views/Twitter.vue'),
   },
 ];
 
