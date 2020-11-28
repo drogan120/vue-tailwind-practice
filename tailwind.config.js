@@ -12,7 +12,7 @@ module.exports = {
       't-light-blue': '#EFF9FF',
       't-dark': '#657786',
       't-light': '#AAB8C2',
-      't-lighter': '#E1EBED',
+      't-lighter': '#E1E8ED',
       't-lightest': '#F5F8FA',
     },
   },

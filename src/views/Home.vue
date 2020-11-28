@@ -11,10 +11,10 @@
                 </p>
                 <div>
                     <router-link
-                        to="/tweeter"
+                        to="/twitter"
                         class="rounded bg-blue-400
                          hover:bg-indigo-600 p-2 text-gray-100 text-xs mb-2 mt-2"
-                        >Tweeter
+                        >twitter
                     </router-link>
                 </div>
             </div>
@@ -28,10 +28,10 @@
                 </p>
                 <div>
                     <router-link
-                        to="/tweeter"
+                        to="/twitter"
                         class="rounded bg-blue-400
                          hover:bg-indigo-600 p-2 text-gray-100 text-xs mb-2 mt-2"
-                        >Tweeter
+                        >twitter
                     </router-link>
                 </div>
             </div>
@@ -45,10 +45,10 @@
                 </p>
                 <div>
                     <router-link
-                        to="/tweeter"
+                        to="/twitter"
                         class="rounded bg-blue-400
                          hover:bg-indigo-600 p-2 text-gray-100 text-xs mb-2 mt-2"
-                        >Tweeter
+                        >twitter
                     </router-link>
                 </div>
             </div>
@@ -62,10 +62,10 @@
                 </p>
                 <div>
                     <router-link
-                        to="/tweeter"
+                        to="/twitter"
                         class="rounded bg-blue-400
                          hover:bg-indigo-600 p-2 text-gray-100 text-xs mb-2 mt-2"
-                        >Tweeter
+                        >twitter
                     </router-link>
                 </div>
             </div>

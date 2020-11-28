@@ -13,8 +13,8 @@ const routes: Array<RouteRecordRaw> = [
     component: () => import('../views/About.vue'),
   },
   {
-    path: '/tweeter',
-    name: 'Tweeter',
+    path: '/twitter',
+    name: 'Twitter',
     component: () => import('../views/Twitter.vue'),
   },
 ];
